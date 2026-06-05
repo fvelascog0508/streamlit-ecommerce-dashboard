@@ -5,13 +5,6 @@ import plotly.express as px
 import numpy as np
 
 
-import streamlit as st
-
-st.write("Secrets keys:", list(st.secrets.keys()))
-
-
-
-
 st.set_page_config(layout="wide")
 
 # -------------------------
